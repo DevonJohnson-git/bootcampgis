@@ -1,0 +1,19 @@
+1.
+https://www.esri.com/en-us/disaster-response/disasters/wildfires
+This is an up to date ESRI source that tells the public information about individual fires such as how many personel are working it, the current damage, conditions, etc.
+You can use this to determine where the fire is, where it has been, and what type of action to take. Focusing on wildlife or humans is also a part as it states what amount of property
+is on the area, how many people live there, and what wildlife could be impacted. I dont like how long it takes to load or do anything in the website, for an emergency response it should be quick
+to load so that communication can be swift. I think cutting down on map clutter and not letting the map auto display would help. Selecting a map layer by state would alleviate the loading times.
+
+2.
+https://data-nifc.opendata.arcgis.com/datasets/e02b85c0ea784ce7bd8add7ae3d293d0_0/explore?location=46.959292%2C-121.706880%2C10.84
+THis is historical fire data sets that can be downloaded/viewed
+It is an open source that can be used for a variety of cases like building/ prevention. This site doesnt load all of the data at once so it doesnt have loading errors until you zoom in. 
+The site is a bit confusing as it has a lot of buttons and not much explanation.
+
+3.
+https://esri-disasterresponse.hub.arcgis.com/pages/wildfires
+This is a disaster response hub that links to other information for fire data.
+It is public focused with links to other disaster response information. It has current data and historical data linked with fires like the Palisades fires.
+I like this site because it is succint, clear, and informative.
+
